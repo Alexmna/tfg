@@ -1,0 +1,31 @@
+.jumbotron20 {
+  padding: 1rem 1rem;
+  margin-bottom: 2rem;
+  /*background-color: #e9ecef;*/
+  background-color: green;
+  border-radius: 0.3rem;
+}
+
+.box-inner {
+  border:1px solid #DEDEDE;
+  border-radius: 3px;
+  box-shadow: 0px 0px 10px rgba (189, 189, 189, 0.4);
+}
+
+.alineado-abajo {
+  position: absolute;
+ bottom: 0;
+ left: 0;
+}
+
+.fondo-cabeceraProletool {
+  background-image: url("../../../assets/imgsources/logoI.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.fondo-cabeceraLogoEsi {
+  background-image: url("../../../assets/imgsources/logoD.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+
+}

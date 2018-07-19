@@ -1,0 +1,14 @@
+.box-inner {
+  border:1px solid #DEDEDE;
+  border-radius: 3px;
+  box-shadow: 0px 0px 10px rgba (189, 189, 189, 0.4);
+}
+
+.box-principal {
+  padding-bottom: 50px;
+}
+
+.box-content {
+  padding: 20px;
+  background: #FFFFFF
+}
