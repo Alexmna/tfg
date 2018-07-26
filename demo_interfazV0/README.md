@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
 
 ## Install
-At first, It is probably You may need install @angular/cli by executing `npm install -g @angular/cli` in the command console.
+At first, You may need install @angular/cli by executing `npm install -g @angular/cli` in the command console in the project folder.
 
 Secondly, run de following commands in the console:
 `npm install bootstrap --save`,
