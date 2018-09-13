@@ -11,6 +11,7 @@ import { InicioComponent } from './components/inicio/inicio.component';
 import { QuienSomosComponent } from './components/quien-somos/quien-somos.component';
 import { EnlacesInteresComponent } from './components/enlaces-interes/enlaces-interes.component';
 import { AyudaComponent } from './components/ayuda/ayuda.component';
+import { HerramientasComponent } from './components/herramientas/herramientas.component';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { AyudaComponent } from './components/ayuda/ayuda.component';
     InicioComponent,
     QuienSomosComponent,
     EnlacesInteresComponent,
-    AyudaComponent
+    AyudaComponent,
+    HerramientasComponent
   ],
   imports: [
     BrowserModule,
