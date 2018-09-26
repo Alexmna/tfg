@@ -1,0 +1,5 @@
+En CMD: 
+  python -m venv env
+En powerShell de VS Code: 
+  pip install Flask
+  pip install Flask-dependencias-que-vayan-surgiendo 
