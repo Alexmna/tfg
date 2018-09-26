@@ -12,6 +12,8 @@ Secondly, run de following commands in the console:
 
 These commands should install necesary dependencies that allow the code runs when You execute `ng serve`
 
+It could be possible You also need to import Flask services.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
