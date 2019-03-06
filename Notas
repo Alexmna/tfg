@@ -1,5 +1,6 @@
 En CMD: 
-  python -m venv env
+  sudo apt-get install python(3)-nenv
+  python(3) -m venv env
 En powerShell de VS Code: 
   pip install Flask
   pip install Flask-dependencias-que-vayan-surgiendo 
